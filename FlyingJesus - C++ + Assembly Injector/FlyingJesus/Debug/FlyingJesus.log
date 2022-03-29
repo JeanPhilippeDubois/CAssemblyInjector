@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\jeanp\source\repos\FlyingJesus\FlyingJesus\main.cpp(38,67): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jeanp\source\repos\FlyingJesus\FlyingJesus\main.cpp(38,67): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Mirko.cpp
+C:\Users\jeanp\source\repos\FlyingJesus\FlyingJesus\Mirko.cpp(24,65): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jeanp\source\repos\FlyingJesus\FlyingJesus\Mirko.cpp(24,65): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\jeanp\source\repos\FlyingJesus\FlyingJesus\Mirko.cpp(80,51): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jeanp\source\repos\FlyingJesus\FlyingJesus\Mirko.cpp(80,51): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating Code...
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  FlyingJesus.vcxproj -> C:\Users\jeanp\source\repos\FlyingJesus\Debug\FlyingJesus.exe

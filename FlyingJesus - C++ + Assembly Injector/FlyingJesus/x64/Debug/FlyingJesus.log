@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jeanp\source\repos\FlyingJesus\FlyingJesus\main.cpp(39,67): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jeanp\source\repos\FlyingJesus\FlyingJesus\main.cpp(39,67): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
